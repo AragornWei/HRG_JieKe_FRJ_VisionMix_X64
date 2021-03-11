@@ -38,4 +38,10 @@
  日志级别：  ERROR 
  记录类：logerror property: [(null)] 
  信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-03-11 19:44:50,278 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
  

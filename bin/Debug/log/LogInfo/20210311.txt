@@ -22,4 +22,10 @@
  日志级别：  INFO  
  记录类：loginfo property: [(null)] 
  信息描述：Log测试-information 
+ -------------------历史记录------------------------
+ 记录时间：2021-03-11 19:44:50,248 
+ 线程ID:[1] 
+ 日志级别：  INFO  
+ 记录类：loginfo property: [(null)] 
+ 信息描述：Log测试-information 
  
