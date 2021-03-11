@@ -49,3 +49,12 @@ C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.
 C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CopyComplete
 C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.dll
 C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.pdb
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\bin\Debug\PlugIns\Yoga.Calibration.dll
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\bin\Debug\PlugIns\Yoga.Calibration.pdb
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csprojAssemblyReference.cache
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.CalibrationSetting.resources
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.GenerateResource.cache
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CoreCompileInputs.cache
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CopyComplete
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.dll
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.pdb

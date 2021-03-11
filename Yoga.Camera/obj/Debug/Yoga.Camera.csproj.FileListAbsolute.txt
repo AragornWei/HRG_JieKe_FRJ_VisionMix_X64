@@ -118,3 +118,13 @@ C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\ob
 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\bin\Debug\log4net.config
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\bin\Debug\Yoga.Camera.dll
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\bin\Debug\Yoga.Camera.pdb
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb

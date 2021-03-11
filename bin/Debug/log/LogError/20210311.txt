@@ -1,0 +1,41 @@
+-------------------历史记录------------------------
+ 记录时间：2021-03-11 19:38:57,768 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-03-11 19:39:35,000 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-03-11 19:39:36,327 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 D:\杰克视觉\HRG_JieKe_FRJ_VisionMix_X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-03-11 19:40:26,003 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-03-11 19:42:29,451 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-03-11 19:43:42,139 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ 
