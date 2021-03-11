@@ -1,0 +1,499 @@
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:01:17,689 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:01:20,790 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:01:20,859 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:01:53,790 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:01:53,814 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:01:54,584 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:01:54,653 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:02:17,458 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:02:17,488 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:02:29,058 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:02:29,085 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:02:50,220 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:02:50,245 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:04:09,659 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:04:09,686 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:06:11,985 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:06:12,010 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:16:33,005 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:16:34,257 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:16:34,283 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:17:23,330 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:17:23,356 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:17:47,584 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Program: 发生未捕获主线程异常_System.ArgumentOutOfRangeException: “0”的值对于“Value”无效。“Value”应介于 'Minimum' 和 'Maximum' 之间。
+参数名: Value
+   在 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   在 Yoga.Camera.frmCameraSetting.trackBarGain_Scroll(Object sender, EventArgs e) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\frmCameraSetting.cs:行号 150
+   在 System.Windows.Forms.TrackBar.OnScroll(EventArgs e)
+   在 System.Windows.Forms.TrackBar.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam) 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:17:50,175 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:17:50,200 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:26:03,709 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:26:04,967 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:26:04,996 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:26:22,302 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:26:22,327 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:08,843 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:08,868 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:39,478 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:39,502 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:40,229 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:40,254 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:53,038 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置曝光时间失败！
+   在 Yoga.Camera.HikvisionCamera.set_ShuterCur(Int64 value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 105
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:27:53,066 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_HikvisionCamera:  
+ System.Exception: 设置相机增益失败！
+   在 Yoga.Camera.HikvisionCamera.set_GainCur(Double value) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\HikvisionCamera.cs:行号 60
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 09:29:46,657 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Program: 发生未捕获主线程异常_System.ArgumentOutOfRangeException: “7”的值对于“Value”无效。“Value”应介于 'Minimum' 和 'Maximum' 之间。
+参数名: Value
+   在 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   在 Yoga.Camera.frmCameraSetting.trackBarLineDebouncerTimeAbs_Scroll(Object sender, EventArgs e) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\frmCameraSetting.cs:行号 161
+   在 System.Windows.Forms.TrackBar.OnScroll(EventArgs e)
+   在 System.Windows.Forms.TrackBar.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam) 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:29:55,353 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Program: 发生未捕获主线程异常_System.ArgumentOutOfRangeException: “10”的值对于“Value”无效。“Value”应介于 'Minimum' 和 'Maximum' 之间。
+参数名: Value
+   在 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   在 Yoga.Camera.frmCameraSetting.trackBarOutLineTime_Scroll(Object sender, EventArgs e) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\frmCameraSetting.cs:行号 167
+   在 System.Windows.Forms.TrackBar.OnScroll(EventArgs e)
+   在 System.Windows.Forms.TrackBar.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam) 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:30:06,642 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Program: 发生未捕获主线程异常_System.ArgumentOutOfRangeException: “8”的值对于“Value”无效。“Value”应介于 'Minimum' 和 'Maximum' 之间。
+参数名: Value
+   在 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   在 Yoga.Camera.frmCameraSetting.trackBarLineDebouncerTimeAbs_Scroll(Object sender, EventArgs e) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\frmCameraSetting.cs:行号 161
+   在 System.Windows.Forms.TrackBar.OnScroll(EventArgs e)
+   在 System.Windows.Forms.TrackBar.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam) 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:31:32,148 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:43:06,995 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 09:44:46,423 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 10:05:48,820 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 10:10:03,738 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 10:29:38,937 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 10:30:51,446 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 10:31:28,027 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 10:36:15,995 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 11:16:23,230 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 11:17:47,172 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 15:50:50,626 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 15:52:27,187 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 15:53:59,596 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 15:54:32,758 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_BaslerCamera:  
+ System.Exception: Failed to open stream channel at device: A required resource to service the request is currently not available. The request may be retried. (0xE1018007) : RuntimeException thrown (file 'gxstream.cpp', line 659)
+   在 Basler.Pylon.CStreamGrabberImpl.StartImpl(Int64 maxImages, Boolean useMaxImages, GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Basler.Pylon.CStreamGrabberImpl.Start(GrabStrategy strategy, GrabLoop grabLoopType)
+   在 Yoga.Camera.BaslerCamera.Open() 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\BaslerCamera.cs:行号 381
+-------------------历史记录------------------------
+ 记录时间：2021-01-19 16:10:35,427 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:19:07,458 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:22:49,552 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:23:22,734 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:24:42,942 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:27:13,104 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:29:11,680 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:48:06,626 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 16:53:40,141 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 17:01:41,591 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-19 17:06:51,098 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ 

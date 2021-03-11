@@ -1,0 +1,84 @@
+-------------------历史记录------------------------
+ 记录时间：2021-01-25 17:13:42,152 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:16:19,827 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:16:28,602 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:20:42,810 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:22:48,688 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:23:10,865 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Program: 发生未捕获主线程异常_System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Yoga.Calibration.EyesOnHand.CalibrationSetting.CloseAcq() 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand\EyesOnHandToolSetting.cs:行号 264
+   在 Yoga.Calibration.EyesOnHand.CalibrationSetting.Clear() 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand\EyesOnHandToolSetting.cs:行号 1140
+   在 Yoga.Tools.frmToolSetting.frmToolSetting_FormClosing(Object sender, FormClosingEventArgs e) 位置 C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\Factory\frmToolSetting.cs:行号 45
+   在 System.Windows.Forms.Form.OnFormClosing(FormClosingEventArgs e)
+   在 System.Windows.Forms.Form.CheckCloseDialog(Boolean closingOnly) 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:24:17,138 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:27:17,059 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:28:05,011 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:28:51,217 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:29:03,765 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:29:38,086 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2021-01-25 17:30:29,308 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ 

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="LuoMuDianpianDetection">
+<interface>
+<io>
+<par name="R" base_type="iconic" dimension="0"/>
+<par name="ROI_LuoMuDiePian_T" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="Result_Region" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="minThreshold" base_type="ctrl" dimension="0"/>
+<par name="filterRadiu" base_type="ctrl" dimension="0"/>
+<par name="minAreaThreshold" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="luoMuDiePian_OKNG" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>Number:=0</l>
+<l>luoMuDiePian_OKNG := 0</l>
+<l>gen_empty_region (Result_Region)</l>
+<l>reduce_domain (R, ROI_LuoMuDiePian_T, ImageReduced_LuoMuDiePian)</l>
+<l>threshold (ImageReduced_LuoMuDiePian, LuoMuDiePian, minThreshold, 255)</l>
+<l>opening_circle (LuoMuDiePian, Opening_Region, filterRadiu)</l>
+<l>connection (Opening_Region, Result_Region)</l>
+<l>area_center (Result_Region, Area, Row, Column)</l>
+<l>mask:=Area[&gt;=]minAreaThreshold</l>
+<l>select_mask_obj (Result_Region, SelectedObjects, mask)</l>
+<l>count_obj (Result_Region, Number)</l>
+<l>if(Number&gt;2)</l>
+<l>    luoMuDiePian_OKNG := 1</l>
+<l>else</l>
+<l>    luoMuDiePian_OKNG := 0</l>
+<l>endif</l>
+<c> </c>
+<l>return ()</l>
+<c></c>
+</body>
+<docu id="LuoMuDianpianDetection">
+<parameters>
+<parameter id="R"/>
+<parameter id="ROI_LuoMuDiePian_T"/>
+<parameter id="Result_Region"/>
+<parameter id="filterRadiu"/>
+<parameter id="luoMuDiePian_OKNG"/>
+<parameter id="minAreaThreshold"/>
+<parameter id="minThreshold"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="FD_Detection">
+<interface>
+<io>
+<par name="G" base_type="iconic" dimension="0"/>
+<par name="RegionFD_T" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="ResultRegion" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="minThreshold" base_type="ctrl" dimension="0"/>
+<par name="minArea" base_type="ctrl" dimension="0"/>
+<par name="maxArea" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="fD_OkNg" base_type="ctrl" dimension="0"/>
+<par name="Area" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>fD_OkNg := 0</l>
+<l>reduce_domain (G, RegionFD_T, ImageReduced)</l>
+<l>threshold (ImageReduced, ResultRegion, minThreshold, 255)</l>
+<l>area_center (ResultRegion, Area, Row, Column)</l>
+<l>if (Area&lt;minArea or Area&gt;maxArea)</l>
+<l>    fD_OkNg := 0</l>
+<l>else</l>
+<l>    fD_OkNg := 1</l>
+<l>endif</l>
+<l>return ()</l>
+<c></c>
+</body>
+<docu id="FD_Detection">
+<parameters>
+<parameter id="Area"/>
+<parameter id="G"/>
+<parameter id="RegionFD_T"/>
+<parameter id="ResultRegion"/>
+<parameter id="fD_OkNg"/>
+<parameter id="maxArea"/>
+<parameter id="minArea"/>
+<parameter id="minThreshold"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>

@@ -1,0 +1,30 @@
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\PlugIns\Yoga.HILTI.AutoPacking.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\PlugIns\Yoga.HILTI.AutoPacking.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csprojAssemblyReference.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.CoreCompileInputs.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\PlugIns\log4net.config
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.CopyComplete
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.GeneralTool.CommonToolParamSetting.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.GenerateResource.cache
+D:\VisionMix-X64\bin\Debug\PlugIns\log4net.config
+D:\VisionMix-X64\bin\Debug\PlugIns\Yoga.HILTI.AutoPacking.dll
+D:\VisionMix-X64\bin\Debug\PlugIns\Yoga.HILTI.AutoPacking.pdb
+D:\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csprojAssemblyReference.cache
+D:\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.GeneralTool.CommonToolParamSetting.resources
+D:\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.GenerateResource.cache
+D:\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.CoreCompileInputs.cache
+D:\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.CopyComplete
+D:\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.dll
+D:\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\PlugIns\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.HILTI.AutoPacking.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.HILTI.AutoPacking.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.GeneralTool.CommonToolParamSetting.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.HILTI.AutoPacking\obj\Debug\Yoga.HILTI.AutoPacking.pdb

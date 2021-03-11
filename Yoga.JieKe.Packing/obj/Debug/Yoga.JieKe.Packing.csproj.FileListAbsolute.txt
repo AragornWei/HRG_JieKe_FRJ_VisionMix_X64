@@ -1,0 +1,10 @@
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\PlugIns\log4net.config
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.JieKe.Packing\obj\Debug\Yoga.JieKe.Packing.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.JieKe.Packing\obj\Debug\Yoga.JieKe.Packing.GeneralTool.CommonToolParamSetting.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.JieKe.Packing\obj\Debug\Yoga.JieKe.Packing.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.JieKe.Packing\obj\Debug\Yoga.JieKe.Packing.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.JieKe.Packing\obj\Debug\Yoga.JieKe.Packing.csproj.CopyComplete
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.JieKe.Packing.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.JieKe.Packing.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.JieKe.Packing\obj\Debug\Yoga.JieKe.Packing.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.JieKe.Packing\obj\Debug\Yoga.JieKe.Packing.pdb

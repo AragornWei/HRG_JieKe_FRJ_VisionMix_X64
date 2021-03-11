@@ -1,0 +1,120 @@
+D:\C#Project\bin\Debug\Yoga.Camera.dll
+D:\C#Project\bin\Debug\Yoga.Camera.pdb
+D:\C#project\VisionMix\bin\Debug\Yoga.Camera.dll
+D:\C#project\VisionMix\bin\Debug\Yoga.Camera.pdb
+D:\C#project\VisionMix\Yoga.Camera\obj\Debug\Yoga.Camera.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+D:\C#project\VisionMix\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+D:\C#project\VisionMix\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+D:\C#project\VisionMix - 副本\bin\Debug\Yoga.Camera.dll
+D:\C#project\VisionMix - 副本\bin\Debug\Yoga.Camera.pdb
+D:\C#project\VisionMix - 副本\Yoga.Camera\obj\Debug\Yoga.Camera.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix - 副本\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+D:\C#project\VisionMix - 副本\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.Cache
+D:\C#project\VisionMix - 副本\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+D:\C#project\VisionMix - 副本\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\Yoga.Camera.dll
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\Yoga.Camera.pdb
+D:\C#project\VisionMix-自由串口通讯\Yoga.Camera\obj\Debug\Yoga.Camera.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix-自由串口通讯\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.Cache
+D:\C#project\VisionMix-自由串口通讯\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+D:\C#project\VisionMix-自由串口通讯\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojResolveAssemblyReference.cache
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.Cache
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojResolveAssemblyReference.cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.Cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojResolveAssemblyReference.cache
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.Cache
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\bin\Debug\Yoga.Camera.dll
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\bin\Debug\Yoga.Camera.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\log4net.config
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+D:\VisionMix-X64\bin\Debug\log4net.config
+D:\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+D:\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+D:\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+D:\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+D:\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+D:\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+D:\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+D:\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+D:\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\Yoga.Camera.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\Yoga.Camera.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.frmCameraSetting.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.csproj.CopyComplete
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Camera\obj\Debug\Yoga.Camera.pdb

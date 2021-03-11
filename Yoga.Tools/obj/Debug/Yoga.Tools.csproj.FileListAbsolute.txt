@@ -1,0 +1,232 @@
+D:\C#Project\bin\Debug\Yoga.Tools.dll
+D:\C#Project\bin\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix11.20-2\bin\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix11.20-2\bin\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.Cache
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix11.20-2\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix\bin\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix\bin\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix - 副本\bin\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix - 副本\bin\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.Cache
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix - 副本\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\Yoga.Tools.pdb
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.Cache
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+D:\C#project\VisionMix-自由串口通讯\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojResolveAssemblyReference.cache
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.Cache
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojResolveAssemblyReference.cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.Cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojResolveAssemblyReference.cache
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.Cache
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\bin\Debug\Yoga.Tools.dll
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\bin\Debug\Yoga.Tools.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\log4net.config
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+D:\VisionMix-X64\bin\Debug\log4net.config
+D:\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+D:\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+D:\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\Yoga.Tools.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\Yoga.Tools.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.CreateImage.CreateImageUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSelect.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.frmToolSetting.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Mat2DMangerUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.Factory.ToolShowUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.ToolsSettingUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.csproj.CopyComplete
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Tools\obj\Debug\Yoga.Tools.pdb

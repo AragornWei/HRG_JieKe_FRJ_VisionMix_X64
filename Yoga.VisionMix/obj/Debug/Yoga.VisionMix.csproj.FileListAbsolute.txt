@@ -1,0 +1,325 @@
+D:\C#Project\bin\Debug\VisionMix.exe.config
+D:\C#Project\bin\Debug\VisionMix.exe
+D:\C#Project\bin\Debug\VisionMix.pdb
+D:\C#project\VisionMix11.20-2\bin\Debug\VisionMix.exe.config
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\VisionMix.exe
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+D:\C#project\VisionMix11.20-2\bin\Debug\VisionMix.exe
+D:\C#project\VisionMix11.20-2\bin\Debug\VisionMix.pdb
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+D:\C#project\VisionMix11.20-2\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\bin\Debug\VisionMix.exe.config
+D:\C#project\VisionMix\bin\Debug\VisionMix.exe
+D:\C#project\VisionMix\bin\Debug\VisionMix.pdb
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\VisionMix.exe
+D:\C#project\VisionMix\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+D:\C#project\VisionMix - 副本\bin\Debug\VisionMix.exe.config
+D:\C#project\VisionMix - 副本\bin\Debug\VisionMix.exe
+D:\C#project\VisionMix - 副本\bin\Debug\VisionMix.pdb
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.Cache
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\VisionMix.exe
+D:\C#project\VisionMix - 副本\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\VisionMix.exe.config
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\VisionMix.exe
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\VisionMix.exe
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\VisionMix.pdb
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.Cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\VisionMix.exe.config
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\VisionMix.exe
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\VisionMix.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+X:\项目\IHalcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe.config
+X:\项目\IHalcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+X:\项目\IHalcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe.config
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.pdb
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojAssemblyReference.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe.config
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojResolveAssemblyReference.cache
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.Cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe.config
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojResolveAssemblyReference.cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.Cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe.config
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.exe
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\VisionMix.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojResolveAssemblyReference.cache
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.Cache
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\VisionMix.exe.config
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\VisionMix.exe
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\VisionMix.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\bin\Debug\VisionMix.exe.config
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\bin\Debug\VisionMix.exe
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\bin\Debug\VisionMix.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\VisionMix.exe
+F:\Learning Materials\Vision程序\VisionMix-X64 _20191029\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\VisionMix.exe.config
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\VisionMix.exe
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\VisionMix.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\log4net.config
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojAssemblyReference.cache
+D:\VisionMix-X64\bin\Debug\log4net.config
+D:\VisionMix-X64\bin\Debug\VisionMix.exe.config
+D:\VisionMix-X64\bin\Debug\VisionMix.exe
+D:\VisionMix-X64\bin\Debug\VisionMix.pdb
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojAssemblyReference.cache
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+D:\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\VisionMix.exe.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\VisionMix.exe
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\VisionMix.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\VisionMix.exe.config
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\VisionMix.exe
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\VisionMix.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmAbout.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmCommSetting.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmLogin.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.FrmMain.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmProjectManger.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Frame.frmRegistered.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Properties.Resources.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.AutoUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.DockUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.IOUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.SysConfigUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.ToolDgv.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.Units.TopInfoUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\Yoga.VisionMix.csproj.CopyComplete
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.exe
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.VisionMix\obj\Debug\VisionMix.pdb

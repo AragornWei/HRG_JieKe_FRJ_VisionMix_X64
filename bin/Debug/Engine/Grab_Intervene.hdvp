@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="Grab_Intervene">
+<interface>
+<io>
+<par name="G" base_type="iconic" dimension="0"/>
+<par name="ROI_Grab_T" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="ResultRegion" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="minThreshold" base_type="ctrl" dimension="0"/>
+<par name="filterRadiu" base_type="ctrl" dimension="0"/>
+<par name="minAreaThread" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="grabInterveneOkNg" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>grabInterveneOkNg := 0</l>
+<l>gen_empty_obj (ResultRegion)</l>
+<l>reduce_domain (G, ROI_Grab_T, ImageReduced)</l>
+<l>threshold (ImageReduced, Region_Intervene, minThreshold, 255)</l>
+<l>opening_circle (Region_Intervene, ResultRegion, filterRadiu)</l>
+<l>area_center (ResultRegion, Area, Row, Column)</l>
+<l>if(Area&gt;minAreaThread)</l>
+<l>    grabInterveneOkNg := 0</l>
+<l>else</l>
+<l>    grabInterveneOkNg := 1</l>
+<l>endif</l>
+<l>return ()</l>
+<l>return ()</l>
+</body>
+<docu id="Grab_Intervene">
+<parameters>
+<parameter id="G"/>
+<parameter id="ROI_Grab_T"/>
+<parameter id="ResultRegion"/>
+<parameter id="filterRadiu"/>
+<parameter id="grabInterveneOkNg"/>
+<parameter id="minAreaThread"/>
+<parameter id="minThreshold"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>

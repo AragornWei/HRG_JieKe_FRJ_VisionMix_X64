@@ -1,0 +1,51 @@
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csprojAssemblyReference.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CoreCompileInputs.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\log4net.config
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Calibration.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Calibration.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\halcondotnet.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.ImageControl.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Tools.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Common.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Camera.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\log4net.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\ScintillaNET.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\MvCameraControl.Net.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Basler.Pylon.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\TIS.Imaging.ICImagingControl34.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.ImageControl.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Tools.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\halcondotnet.xml
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Common.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Yoga.Camera.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\log4net.xml
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\ScintillaNET.xml
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\Basler.Pylon.xml
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\bin\Debug\byn\Yoga.ImageControl.resources.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.CalibrationSetting.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.GenerateResource.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CopyComplete
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.pdb
+D:\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.dll
+D:\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.pdb
+D:\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csprojAssemblyReference.cache
+D:\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.CalibrationSetting.resources
+D:\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.GenerateResource.cache
+D:\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CoreCompileInputs.cache
+D:\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CopyComplete
+D:\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.dll
+D:\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.pdb
+D:\VisionMix-X64\bin\Debug\PlugIns\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\PlugIns\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.CalibrationSetting.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Calibration\obj\Debug\Yoga.Calibration.pdb

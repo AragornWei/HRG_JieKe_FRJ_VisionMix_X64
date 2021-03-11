@@ -1,0 +1,10 @@
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\PlugIns\log4net.config
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.EyesOnHand2.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\PlugIns\Yoga.Calibration.EyesOnHand2.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand2\obj\Debug\Yoga.Calibration.EyesOnHand2.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand2\obj\Debug\Yoga.Calibration.EyesOnHand2.CalibrationSetting.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand2\obj\Debug\Yoga.Calibration.EyesOnHand2.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand2\obj\Debug\Yoga.Calibration.EyesOnHand2.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand2\obj\Debug\Yoga.Calibration.EyesOnHand2.csproj.CopyComplete
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand2\obj\Debug\Yoga.Calibration.EyesOnHand2.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yaga.Calibration.EyesOnHand2\obj\Debug\Yoga.Calibration.EyesOnHand2.pdb

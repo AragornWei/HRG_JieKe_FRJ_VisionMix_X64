@@ -1,0 +1,213 @@
+D:\C#Project\bin\Debug\Yoga.Common.dll
+D:\C#Project\bin\Debug\Yoga.Common.pdb
+D:\C#project\VisionMix\bin\Debug\Yoga.Common.dll
+D:\C#project\VisionMix\bin\Debug\Yoga.Common.pdb
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.dll
+D:\C#project\VisionMix\Yoga.Common\obj\Debug\Yoga.Common.pdb
+D:\C#project\VisionMix - 副本\bin\Debug\Yoga.Common.dll
+D:\C#project\VisionMix - 副本\bin\Debug\Yoga.Common.pdb
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.Cache
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.dll
+D:\C#project\VisionMix - 副本\Yoga.Common\obj\Debug\Yoga.Common.pdb
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\Yoga.Common.dll
+D:\C#project\VisionMix-自由串口通讯\bin\Debug\Yoga.Common.pdb
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.Cache
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.dll
+D:\C#project\VisionMix-自由串口通讯\Yoga.Common\obj\Debug\Yoga.Common.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CoreCompileInputs.cache
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\Yoga.Common.dll
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+S:\项目\IHalcon\VisionMix-X64\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CopyComplete
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.dll
+S:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojAssemblyReference.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CoreCompileInputs.cache
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CopyComplete
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+S:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.dll
+L:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojResolveAssemblyReference.cache
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.Cache
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+L:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.dll
+X:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.Cache
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+X:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojResolveAssemblyReference.cache
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.dll
+K:\项目\Halcon\VisionMix\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.Cache
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.Common.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\log4net.config
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.Common.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CoreCompileInputs.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CopyComplete
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojAssemblyReference.cache
+D:\VisionMix-X64\bin\Debug\log4net.config
+D:\VisionMix-X64\bin\Debug\Yoga.Common.dll
+D:\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.cache
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CoreCompileInputs.cache
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CopyComplete
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+D:\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.Common.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\Yoga.Common.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\bin\Debug\Yoga.Common.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Basic.frmImputText.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.AxisSettingUnit.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.MotionControl.FrmAxisSetting.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.Properties.Resources.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.AgileProgressBar.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.FrmLoad.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.frmWaitingBox.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.UI.IpTextBoxExt.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.VBAEngine.VbaEditBox.resources
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csproj.CopyComplete
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.dll
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.pdb
+C:\Users\92935\Desktop\杰克包装线\杰克视觉\VisionMix-X64\Yoga.Common\obj\Debug\Yoga.Common.csprojAssemblyReference.cache

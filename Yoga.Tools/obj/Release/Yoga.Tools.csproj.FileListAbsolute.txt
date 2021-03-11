@@ -1,0 +1,14 @@
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.CreateImage.CreateImageUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.Factory.frmSelectCameraIndex.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.frmToolSelect.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.frmToolSetting.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.Mat2DMangerUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.Factory.SacleImagePretreatmentUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.Factory.ToolShowUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.ToolsSettingUnit.resources
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\bin\Release\Yoga.Tools.dll
+D:\C#project\VisionMix\bin\Release\Yoga.Tools.pdb
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.dll
+D:\C#project\VisionMix\Yoga.Tools\obj\Release\Yoga.Tools.pdb

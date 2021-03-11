@@ -1,0 +1,7 @@
+D:\C#project\VisionMix\Yoga.Camera\obj\Release\Yoga.Camera.csprojResolveAssemblyReference.cache
+D:\C#project\VisionMix\Yoga.Camera\obj\Release\Yoga.Camera.frmCameraSetting.resources
+D:\C#project\VisionMix\Yoga.Camera\obj\Release\Yoga.Camera.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\bin\Release\Yoga.Camera.dll
+D:\C#project\VisionMix\bin\Release\Yoga.Camera.pdb
+D:\C#project\VisionMix\Yoga.Camera\obj\Release\Yoga.Camera.dll
+D:\C#project\VisionMix\Yoga.Camera\obj\Release\Yoga.Camera.pdb

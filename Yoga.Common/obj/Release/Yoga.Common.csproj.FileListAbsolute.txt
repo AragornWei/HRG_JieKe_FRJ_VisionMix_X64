@@ -1,0 +1,14 @@
+D:\C#project\VisionMix\bin\Release\Yoga.Common.dll
+D:\C#project\VisionMix\bin\Release\Yoga.Common.pdb
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.Basic.frmImputText.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.MotionControl.AxisSettingUnit.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.MotionControl.FrmAxisSetting.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.Properties.Resources.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.UI.AgileProgressBar.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.UI.FrmLoad.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.UI.frmWaitingBox.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.UI.IpTextBoxExt.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.VBAEngine.VbaEditBox.resources
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.csproj.GenerateResource.Cache
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.dll
+D:\C#project\VisionMix\Yoga.Common\obj\Release\Yoga.Common.pdb

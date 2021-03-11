@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="LanQuan_Detection">
+<interface>
+<io>
+<par name="R" base_type="iconic" dimension="0"/>
+<par name="ROI_LanQuan_T" base_type="iconic" dimension="0"/>
+<par name="B" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="Result_Region" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="minThreshold" base_type="ctrl" dimension="0"/>
+<par name="filterRadiu" base_type="ctrl" dimension="0"/>
+<par name="minArea" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="lanQuan_OKNG" base_type="ctrl" dimension="0"/>
+<par name="Area" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>gen_empty_obj (Result_Region)</l>
+<l>lanQuan_OKNG := 0</l>
+<c></c>
+<l>reduce_domain (R, ROI_LanQuan_T, R_ImageReduced)</l>
+<l>reduce_domain (B, ROI_LanQuan_T, B_ImageReduced)</l>
+<l>sub_image (B_ImageReduced, R_ImageReduced, ImageSub, 1, 128)</l>
+<l>threshold (ImageSub, LanQuanRegion, minThreshold, 255)</l>
+<l>opening_circle (LanQuanRegion, opening_region, filterRadiu)</l>
+<l>fill_up (opening_region,fill_up_region)</l>
+<l>connection (fill_up_region, ConnectedRegions)</l>
+<l>area_center (ConnectedRegions, Area, Row, Column)</l>
+<l>if(|Row|&gt;1)</l>
+<l>    tuple_sort_index (-Area, Indices)   </l>
+<l>*     select_obj (ConnectedRegions, ObjectSelected1, Indices[|Indices|-1]+1)</l>
+<l>*     select_obj (ConnectedRegions, ObjectSelected2,  Indices[|Indices|-2]+1)</l>
+<l>    select_obj (ConnectedRegions, ObjectSelected1, Indices[0]+1)</l>
+<l>    select_obj (ConnectedRegions, ObjectSelected2,  Indices[1]+1)</l>
+<l>    union2 (ObjectSelected1, ObjectSelected2, Result_Region)</l>
+<l>else</l>
+<l>    Result_Region:=ConnectedRegions</l>
+<l>endif</l>
+<l>area_center (fill_up_region, Area, Row, Column)</l>
+<l>if (Area&gt;minArea)</l>
+<l>    lanQuan_OKNG := 1</l>
+<l>else</l>
+<l>    lanQuan_OKNG := 0</l>
+<l>endif</l>
+<l>return ()</l>
+<l>return ()</l>
+</body>
+<docu id="LanQuan_Detection">
+<parameters>
+<parameter id="Area"/>
+<parameter id="B"/>
+<parameter id="R"/>
+<parameter id="ROI_LanQuan_T"/>
+<parameter id="Result_Region"/>
+<parameter id="filterRadiu"/>
+<parameter id="lanQuan_OKNG"/>
+<parameter id="minArea"/>
+<parameter id="minThreshold"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>

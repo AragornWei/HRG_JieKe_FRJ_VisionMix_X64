@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="17.12">
+<procedure name="PZT_Detection">
+<interface>
+<io>
+<par name="RegionPZT_T" base_type="iconic" dimension="0"/>
+<par name="R" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="Arrow" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="mesureNumber" base_type="ctrl" dimension="0"/>
+<par name="angle" base_type="ctrl" dimension="0"/>
+<par name="mes_width" base_type="ctrl" dimension="0"/>
+<par name="sigma" base_type="ctrl" dimension="0"/>
+<par name="threshold" base_type="ctrl" dimension="0"/>
+<par name="dist_STD" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="dist_PZT" base_type="ctrl" dimension="0"/>
+<par name="pZTOkNg" base_type="ctrl" dimension="0"/>
+<par name="Rows1" base_type="ctrl" dimension="0"/>
+<par name="Cols1" base_type="ctrl" dimension="0"/>
+<par name="Rows2" base_type="ctrl" dimension="0"/>
+<par name="Cols2" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>Rows1:=[]</l>
+<l>Cols1:=[]</l>
+<l>Rows2:=[]</l>
+<l>Cols2:=[]</l>
+<l>Dist:=[]       </l>
+<l>dist_PZT:=0</l>
+<l>pZTOkNg := 0</l>
+<l>gen_empty_obj (Arrow)</l>
+<l>smallest_rectangle2 (RegionPZT_T, Row, Column, Phi, Length1, Length2)</l>
+<l>Inter:=floor(2*Length2/mesureNumber)</l>
+<l>RowStart := Row+(Length2-Inter/2)*sin(angle)</l>
+<l>ColStart := Column-(Length2-Inter/2)*cos(angle)</l>
+<l>get_image_size (R, Width, Height)        </l>
+<l>for i:=0 to mesureNumber-1 by 1</l>
+<l>    Row_Mes := RowStart-Inter*i*sin(angle)</l>
+<l>    Col_Mes := ColStart+Inter*i*cos(angle)</l>
+<l>    gen_measure_rectangle2 (Row_Mes, Col_Mes, angle+rad(90), Length1, mes_width, Width, Height, 'nearest_neighbor', MeasureHandle)</l>
+<l>    measure_pos (R, MeasureHandle, sigma, threshold, 'positive', 'first', RowEdge1, ColumnEdge1, Amplitude1, Distance1)</l>
+<l>    measure_pos (R, MeasureHandle, sigma, threshold, 'negative', 'last', RowEdge2, ColumnEdge2, Amplitude2, Distance2)</l>
+<l>    close_measure (MeasureHandle)</l>
+<l>    tuple_length (RowEdge1, L1)</l>
+<l>    tuple_length (RowEdge2, L2)</l>
+<l>    if(L1#1 or L2#1)</l>
+<l>        continue</l>
+<l>    endif</l>
+<l>    Rows1:=[Rows1,RowEdge1]</l>
+<l>    Cols1:=[Cols1,ColumnEdge1]</l>
+<l>    Rows2:=[Rows2,RowEdge2]</l>
+<l>    Cols2:=[Cols2,ColumnEdge2]</l>
+<l>    distance_pp (RowEdge1, ColumnEdge1, RowEdge2, ColumnEdge2, Distance)</l>
+<l>    Dist:=[Dist,Distance]</l>
+<l>endfor</l>
+<l>gen_arrow_contour_xld (Arrow1, Rows1, Cols1, Rows2, Cols2, 20, 20)</l>
+<l>gen_arrow_contour_xld (Arrow2,  Rows2, Cols2, Rows1, Cols1, 20, 20)</l>
+<l>concat_obj (Arrow1, Arrow2, Arrow)</l>
+<l>tuple_sort_index (Dist, Dist_Index)</l>
+<l>dist_PZT := Dist[Dist_Index[1:|Dist_Index|-2]]</l>
+<l>dist_PZT := mean(dist_PZT)</l>
+<l>if (dist_PZT&gt;dist_STD)</l>
+<l>    pZTOkNg := 1</l>
+<l>else</l>
+<l>    pZTOkNg := 0</l>
+<l>endif</l>
+<l>return ()</l>
+<l>return ()</l>
+</body>
+<docu id="PZT_Detection">
+<parameters>
+<parameter id="Arrow"/>
+<parameter id="Cols1"/>
+<parameter id="Cols2"/>
+<parameter id="R"/>
+<parameter id="RegionPZT_T"/>
+<parameter id="Rows1"/>
+<parameter id="Rows2"/>
+<parameter id="angle"/>
+<parameter id="dist_PZT"/>
+<parameter id="dist_STD"/>
+<parameter id="mes_width"/>
+<parameter id="mesureNumber"/>
+<parameter id="pZTOkNg"/>
+<parameter id="sigma"/>
+<parameter id="threshold"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>
